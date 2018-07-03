@@ -1,0 +1,15 @@
+{
+  "name": "SampleREST",
+  "version": "0.0.0",
+  "description": "SampleREST",
+  "main": "app.js",
+  "author": {
+    "name": "Personal",
+    "email": ""
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mssql": "^2.1.7",
+    "url": "^0.11.0"
+  }
+}
